@@ -1,6 +1,6 @@
 ## Letter by Letter
 
-> Show letter by letter using HTML, CSS and JS!
+> Show text letter by letter using HTML, CSS and JS!
 
 
 | [<img src="demo/demo_letter_by_letter.gif" width="100%;"/><br /><sub> LETTER BY LETTER </sub>](demo/demo_letter_by_letter.gif)<br /> | 
