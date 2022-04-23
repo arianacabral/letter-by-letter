@@ -21,16 +21,3 @@
     padding: 10px 20px;
     font-size: 18px;
   }
-  
-  input {
-    width: 25px;
-    padding: 5px;
-    font-size: 18px;
-    background-color: rgb(122, 152, 233);
-    border: none;
-    text-align: center;
-  }
-  
-  input:focus {
-    outline: none;
-  }
