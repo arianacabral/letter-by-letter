@@ -20,5 +20,3 @@ function writeText() {
 
     setTimeout(writeText, speed);
 };
-
-speedShow.addEventListener('input', (e) => speed = 200 / e.target.value);
