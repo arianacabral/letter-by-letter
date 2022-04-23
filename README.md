@@ -22,7 +22,7 @@ You don't need to do anything to see and use this template.
 
 Notepad, [Notepad++](https://notepad-plus-plus.org/) or [VS Code](https://code.visualstudio.com/) can be used to make changes.
 
-Modify the html file [``index.html``](https://github.com/arianacabral/notes/blob/main/index.html) to change the elements or add new ones and the javascript file [``index.js``](https://github.com/arianacabral/notes/blob/main/index.js) to add or change the element events. You can also style your portfolio by modifying the CSS file  [``index.css``](https://github.com/arianacabral/notes/blob/main/index.css).
+Modify the html file [``index.html``](https://github.com/arianacabral/notes/blob/main/index.html) to change the elements or add new ones and the javascript file [``index.js``](https://github.com/arianacabral/notes/blob/main/index.js) to add or change the element events. You can also style your template by modifying the CSS file  [``index.css``](https://github.com/arianacabral/notes/blob/main/index.css).
 
 ## Contributing 🍰
 
